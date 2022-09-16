@@ -1,6 +1,7 @@
 ﻿using System;
 
 public class Program {
+    //ผมทำไม่ได้ และก็ไม่เสร็จด้วย ขออภัยด้วยครับ
     public static void Main(string[] args) {
         string store = InputstoreInformation();
         string co_founder = InputCo_founderInformation();
